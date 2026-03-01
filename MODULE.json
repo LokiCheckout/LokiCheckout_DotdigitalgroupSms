@@ -1,4 +1,5 @@
 {
+    "integration": true,
     "modules": [
         "LokiCheckout_Core"
     ],
