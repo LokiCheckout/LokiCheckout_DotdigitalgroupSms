@@ -5,5 +5,11 @@
     ],
     "components": [],
     "config": [],
-    "tests": []
+    "tests": [],
+    "module_name": "LokiCheckout_DotdigitalgroupSms",
+    "composer_name": "loki-checkout/magento2-dotdigitalgroup-sms",
+    "sequence": [
+        "LokiCheckout_Core",
+        "Dotdigitalgroup_Sms"
+    ]
 }
