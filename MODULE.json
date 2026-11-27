@@ -63,7 +63,6 @@
     "composer_name": "loki-checkout/magento2-dotdigitalgroup-sms",
     "sequence": [
         "Dotdigitalgroup_Email",
-        "Dotdigitalgroup_Sms",
         "LokiCheckout_Core"
     ],
     "php_versions": [
