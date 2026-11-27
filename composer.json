@@ -8,9 +8,9 @@
     ],
     "type": "magento2-module",
     "require": {
-        "magento/framework": "^103.0",
         "dotdigital/dotdigital-magento2-extension-sms": "^2.7",
         "loki-checkout/magento2-core": "^2.0",
+        "magento/framework": "^103.0",
         "php": ">=8.2 <8.6"
     },
     "license": "OSL-3.0",
