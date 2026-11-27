@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.1] - 27 November 2026
 ### Added
-- Initial release of the Loki Checkout compatibility module for the Dotdigital SMS extension (dotdigital/dotdigital-magento2-extension-sms ^2.7)
+- Initial release of the Loki Checkout compatibility module for Dotdigital (dotdigital/dotdigital-magento2-extension ^4.38)
 - Register module with Loki Checkout and report it in the Dotdigital connector's active modules list
 
 ### Changed
