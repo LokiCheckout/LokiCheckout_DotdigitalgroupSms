@@ -8,7 +8,7 @@
         </arguments>
     </type>
 
-    <type name="Dotdigitalgroup\Sms\Model\Connector\Module">
+    <type name="Dotdigitalgroup\Email\Model\Connector\Module">
         <plugin name="luma_checkout_dotdigitalgroup_sms" type="LokiCheckout\DotdigitalgroupSms\Plugin\ModulePlugin" sortOrder="10"/>
     </type>
 </config>
