@@ -2,8 +2,8 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
     <module name="LokiCheckout_DotdigitalgroupSms">
         <sequence>
-            <module name="LokiCheckout_Core"/>
             <module name="Dotdigitalgroup_Sms"/>
+            <module name="LokiCheckout_Core"/>
         </sequence>
     </module>
 </config>
