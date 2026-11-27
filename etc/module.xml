@@ -3,7 +3,6 @@
     <module name="LokiCheckout_DotdigitalgroupSms">
         <sequence>
             <module name="Dotdigitalgroup_Email"/>
-            <module name="Dotdigitalgroup_Sms"/>
             <module name="LokiCheckout_Core"/>
         </sequence>
     </module>
